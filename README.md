@@ -26,8 +26,8 @@ The Weather Forecast Application is a Spring Boot-based REST API that provides w
 ### Steps to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ketanbparekh/weather-forecast.git
-   cd weather-forecast
+   git clone https://github.com/ketanbparekh/weatherapp.git
+   cd weatherapp
    ```
 2. Update the API key in `application.yml`:
    ```properties
