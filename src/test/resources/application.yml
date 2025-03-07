@@ -1,0 +1,16 @@
+logging:
+  level:
+    org.springframework: DEBUG
+    com.apple: INFO
+  file:
+    name:myapp.log
+
+spring:
+  application:
+    name: weather
+
+  profiles:
+    active: dev
+
+api:
+  key: 685d1bf4fb80450d898225947250503
